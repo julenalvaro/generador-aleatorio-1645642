@@ -1,0 +1,24 @@
+{
+  "name": "generador-aleatorio-palabrejas",
+  "version": "1.0.0",
+  "description": "generador aleatorio de palabras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julenalvaro/generador-aleatorio-palabrejas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julenalvaro/generador-aleatorio-palabrejas/issues"
+  },
+  "homepage": "https://github.com/julenalvaro/generador-aleatorio-palabrejas#readme",
+  "bin": {
+    "generador-aleatorio-palabrejas": "bin/global.js"
+  },
+  "preferGlobal": true
+}
